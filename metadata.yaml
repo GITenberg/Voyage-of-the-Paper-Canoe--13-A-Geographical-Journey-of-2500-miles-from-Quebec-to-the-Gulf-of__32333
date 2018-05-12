@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '532'
     url: http://www.gutenberg.org/2009/agents/532
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32333#Voyage-of-the-Paper-Canoe--13-A-Geographical-Journey-of-2500-miles-from-Quebec-to-the-Gulf-of_
 gutenberg_issued: '2010-05-11'
 gutenberg_type: Text
 identifiers:
