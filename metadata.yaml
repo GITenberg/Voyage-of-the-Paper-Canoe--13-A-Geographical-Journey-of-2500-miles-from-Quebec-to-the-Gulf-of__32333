@@ -1,0 +1,38 @@
+_repo: Voyage-of-the-Paper-Canoe--13-A-Geographical-Journey-of-2500-miles-from-Quebec-to-the-Gulf-of__32333
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32333-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bishop, Nathaniel H. (Nathaniel Holmes)
+    alias: Bishop, Nathaniel Holmes
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '532'
+    url: http://www.gutenberg.org/2009/agents/532
+description: ''
+gutenberg_issued: '2010-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32333'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Canoes and canoeing -- United States -- History -- 19th century'
+- !lcc 'F106'
+- !lcsh 'Canada, Eastern -- Description and travel'
+- !lcsh 'Bishop, Nathaniel H. (Nathaniel Holmes), 1837-1902 -- Travel -- Canada, Eastern'
+- !lcsh 'Atlantic Coast (Canada) -- Description and travel'
+- !lcsh 'Bishop, Nathaniel H. (Nathaniel Holmes), 1837-1902 -- Travel -- United States'
+- !lcsh 'Waterways -- United States -- History -- 19th century'
+- !lcsh 'Waterways -- Canada, Eastern -- History -- 19th century'
+- !lcsh 'Canoes and canoeing -- Canada, Eastern -- History -- 19th century'
+- !lcsh 'Atlantic Coast (U.S.) -- Description and travel'
+- !lcsh 'United States -- Description and travel'
+title: "Voyage of the Paper Canoe\r\nA Geographical Journey of 2500 miles, from Quebec\
+  \ to the Gulf of Mexico, during the years 1874-5."
+url: http://www.gutenberg.org/ebooks/32333
